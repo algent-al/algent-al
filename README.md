@@ -2,7 +2,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=algent-al&count_private=true&theme=tokyonight&show_icons=true)]()
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=algent-al&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=algent-al&theme=tokyonight)]()
 
 
 <!--
